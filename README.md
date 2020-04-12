@@ -1,5 +1,6 @@
 # Random_Forest_Implementation
-Implementing Decision Tree and Random Forest From Scatch using Numpy only
+
+Implementing Decision Tree and Random Forest on Python From Scatch using Numpy only
 
 this my version of Random Forest and Decision Tree that was implemented in fastai course. I have included more functionalities such as,
 bootstraping, maximum features and a fair implementation of features importance.
