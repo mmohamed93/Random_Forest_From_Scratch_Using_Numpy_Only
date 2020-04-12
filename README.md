@@ -1,4 +1,4 @@
-# Random_Forest_Implementation
+# Random Forest Implementation
 
 Implementing Decision Tree and Random Forest on Python From Scatch using Numpy only
 
